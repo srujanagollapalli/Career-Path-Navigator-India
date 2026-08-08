@@ -1,0 +1,48 @@
+{
+  "student_id": "STU001",
+  "career": "Data Scientist",
+  "skill_analysis": [
+    {
+      "skill": "Python",
+      "current_level": "Intermediate",
+      "required_level": "Advanced",
+      "gap": "Medium",
+      "action": "Practice advanced Python and data analysis"
+    },
+    {
+      "skill": "SQL",
+      "current_level": "Beginner",
+      "required_level": "Intermediate",
+      "gap": "Medium",
+      "action": "Practice queries, joins, grouping and subqueries"
+    },
+    {
+      "skill": "Statistics",
+      "current_level": "Beginner",
+      "required_level": "Intermediate",
+      "gap": "High",
+      "action": "Learn probability, distributions and hypothesis testing"
+    },
+    {
+      "skill": "Machine Learning",
+      "current_level": "Beginner",
+      "required_level": "Intermediate",
+      "gap": "High",
+      "action": "Learn supervised and unsupervised learning"
+    },
+    {
+      "skill": "Data Visualization",
+      "current_level": "Beginner",
+      "required_level": "Intermediate",
+      "gap": "Medium",
+      "action": "Practice Tableau, Matplotlib and dashboard creation"
+    }
+  ],
+  "priority": [
+    "Statistics",
+    "Machine Learning",
+    "SQL",
+    "Python",
+    "Data Visualization"
+  ]
+}
