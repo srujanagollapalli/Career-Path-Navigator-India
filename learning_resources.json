@@ -1,0 +1,61 @@
+{
+  "learning_resources": [
+    {
+      "topic": "Python",
+      "level": "Beginner",
+      "learning_goals": [
+        "Variables",
+        "Data Types",
+        "Functions",
+        "Lists and Dictionaries",
+        "Object-Oriented Programming"
+      ],
+      "practice": [
+        "Coding exercises",
+        "Small Python projects"
+      ]
+    },
+    {
+      "topic": "SQL",
+      "level": "Beginner to Intermediate",
+      "learning_goals": [
+        "SELECT queries",
+        "Filtering",
+        "Joins",
+        "GROUP BY",
+        "Subqueries"
+      ],
+      "practice": [
+        "Database exercises",
+        "Query challenges"
+      ]
+    },
+    {
+      "topic": "Machine Learning",
+      "level": "Intermediate",
+      "learning_goals": [
+        "Regression",
+        "Classification",
+        "Clustering",
+        "Model Evaluation"
+      ],
+      "practice": [
+        "Prediction project",
+        "Customer segmentation project"
+      ]
+    },
+    {
+      "topic": "Data Visualization",
+      "level": "Beginner to Intermediate",
+      "learning_goals": [
+        "Charts",
+        "Dashboards",
+        "Data storytelling"
+      ],
+      "practice": [
+        "Tableau dashboard",
+        "Python visualization project"
+      ]
+    }
+  ]
+}
