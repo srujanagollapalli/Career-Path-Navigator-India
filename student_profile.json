@@ -1,0 +1,32 @@
+{
+  "student_id": "STU001",
+  "name": "Sample Student",
+  "education": {
+    "level": "Undergraduate",
+    "course": "BCA Data Science",
+    "year": "2nd Year"
+  },
+  "location": {
+    "state": "Andhra Pradesh",
+    "country": "India"
+  },
+  "interests": [
+    "Data Science",
+    "Artificial Intelligence",
+    "Technology"
+  ],
+  "current_skills": [
+    "Python",
+    "Excel",
+    "Basic SQL"
+  ],
+  "strengths": [
+    "Problem Solving",
+    "Analytical Thinking",
+    "Communication"
+  ],
+  "career_goal": "Data Scientist",
+  "preferred_learning_mode": "Online",
+  "available_hours_per_week": 10,
+  "preferred_language": "English"
+}
