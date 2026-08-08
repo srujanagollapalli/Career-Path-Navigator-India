@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "student_id": "STU001",
+      "education": "BCA",
+      "interests": [
+        "Data Science",
+        "AI"
+      ],
+      "skills": [
+        "Python",
+        "Excel"
+      ],
+      "career_goal": "Data Scientist"
+    },
+    {
+      "student_id": "STU002",
+      "education": "B.Tech Computer Science",
+      "interests": [
+        "Web Development",
+        "Programming"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "career_goal": "Full Stack Developer"
+    },
+    {
+      "student_id": "STU003",
+      "education": "B.Com",
+      "interests": [
+        "Finance",
+        "Business"
+      ],
+      "skills": [
+        "Excel",
+        "Communication"
+      ],
+      "career_goal": "Financial Analyst"
+    },
+    {
+      "student_id": "STU004",
+      "education": "B.Sc",
+      "interests": [
+        "Teaching",
+        "Mathematics"
+      ],
+      "skills": [
+        "Mathematics",
+        "Communication"
+      ],
+      "career_goal": "Teacher"
+    }
+  ]
+}
