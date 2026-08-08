@@ -1,0 +1,66 @@
+{
+  "student_id": "STU001",
+  "career_goal": "Data Scientist",
+  "weekly_plan": [
+    {
+      "week": 1,
+      "focus": "Python",
+      "tasks": [
+        "Review Python fundamentals",
+        "Practice functions and data structures",
+        "Complete 5 coding exercises"
+      ],
+      "estimated_hours": 8
+    },
+    {
+      "week": 2,
+      "focus": "SQL",
+      "tasks": [
+        "Learn SELECT and filtering",
+        "Practice joins",
+        "Solve 15 SQL queries"
+      ],
+      "estimated_hours": 8
+    },
+    {
+      "week": 3,
+      "focus": "Statistics",
+      "tasks": [
+        "Learn probability basics",
+        "Study mean, median and standard deviation",
+        "Practice basic statistical problems"
+      ],
+      "estimated_hours": 8
+    },
+    {
+      "week": 4,
+      "focus": "Data Visualization",
+      "tasks": [
+        "Learn basic charts",
+        "Create a dashboard",
+        "Complete one visualization project"
+      ],
+      "estimated_hours": 10
+    },
+    {
+      "week": 5,
+      "focus": "Machine Learning",
+      "tasks": [
+        "Learn supervised learning",
+        "Study regression",
+        "Build a simple prediction model"
+      ],
+      "estimated_hours": 10
+    },
+    {
+      "week": 6,
+      "focus": "Portfolio",
+      "tasks": [
+        "Select a project",
+        "Build the project",
+        "Upload the project to GitHub"
+      ],
+      "estimated_hours": 12
+    }
+  ]
+}
