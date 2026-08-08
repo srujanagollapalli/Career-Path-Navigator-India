@@ -1,0 +1,42 @@
+{
+  "student_id": "STU001",
+  "career_goal": "Data Scientist",
+  "roadmap": {
+    "short_term": {
+      "duration": "0-3 months",
+      "goals": [
+        "Strengthen Python programming",
+        "Learn SQL fundamentals",
+        "Study statistics basics",
+        "Practice data analysis using Pandas"
+      ]
+    },
+    "medium_term": {
+      "duration": "3-6 months",
+      "goals": [
+        "Learn data visualization",
+        "Study machine learning fundamentals",
+        "Build 2 practical data science projects",
+        "Create a GitHub portfolio"
+      ]
+    },
+    "long_term": {
+      "duration": "6-12 months",
+      "goals": [
+        "Complete advanced machine learning projects",
+        "Apply for internships",
+        "Prepare a professional resume",
+        "Practice technical interviews",
+        "Apply for entry-level data roles"
+      ]
+    }
+  },
+  "milestones": [
+    "Python proficiency",
+    "SQL proficiency",
+    "Statistics fundamentals",
+    "Machine learning fundamentals",
+    "Portfolio completion",
+    "Internship applications"
+  ]
+}
