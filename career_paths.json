@@ -1,0 +1,84 @@
+{
+  "career_paths": [
+    {
+      "career": "Data Scientist",
+      "education": [
+        "BCA",
+        "B.Sc Data Science",
+        "B.Tech Computer Science"
+      ],
+      "core_skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization"
+      ],
+      "recommended_projects": [
+        "Customer Segmentation",
+        "Sales Prediction",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "career": "Full Stack Developer",
+      "education": [
+        "BCA",
+        "B.Tech Computer Science",
+        "B.Sc Computer Science"
+      ],
+      "core_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Databases"
+      ],
+      "recommended_projects": [
+        "E-commerce Website",
+        "Student Management System",
+        "Online Learning Platform"
+      ]
+    },
+    {
+      "career": "Financial Analyst",
+      "education": [
+        "B.Com",
+        "BBA",
+        "MBA Finance"
+      ],
+      "core_skills": [
+        "Excel",
+        "Financial Analysis",
+        "Accounting",
+        "Data Visualization",
+        "Communication"
+      ],
+      "recommended_projects": [
+        "Financial Dashboard",
+        "Budget Analysis",
+        "Company Performance Analysis"
+      ]
+    },
+    {
+      "career": "UI/UX Designer",
+      "education": [
+        "Any relevant undergraduate degree",
+        "Design-related programs"
+      ],
+      "core_skills": [
+        "Figma",
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Visual Design"
+      ],
+      "recommended_projects": [
+        "Mobile App Prototype",
+        "Website Redesign",
+        "User Experience Case Study"
+      ]
+    }
+  ]
+}
